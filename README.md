@@ -4,7 +4,7 @@
 2023 Winter Session Term 1
 
 ## Outline
-This course covers a variety of machine learning algorithms and models, while I learned the fundamentals through practical implementation of prediction or classification tasks. We selected speech emotion detection (SER) as the topic of our final project while developing a CNN-LSTM to reach a final accuracy of 62%.
+This course covers a variety of machine learning algorithms and models, while I learned the fundamentals through practical implementation of prediction or classification tasks. We selected speech emotion detection (SER) as the topic of our final project while developing a trained CNN-LSTM model to reach a final accuracy of 62%.
 
 Assignment 1: <br />
 • Regression <br />
